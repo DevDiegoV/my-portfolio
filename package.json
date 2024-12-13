@@ -1,8 +1,8 @@
 {
-  "name": "my-portifolio",
+  "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://devdiegov.github.io/my-portifolio",
+  "homepage": "https://devdiegov.github.io/my-portfolio",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
