@@ -38,7 +38,7 @@ const theme = extendTheme ({
       body: {
         bg: props.colorMode === "dark" ? "dark.bg" : "light.bg",
         color: props.colorMode === "dark" ? "dark.primary" : "light.primary",
-        fontFamily: "Inter",
+        fontFamily: "Montserrat, sans-serif",
         fontWeight: "fonts.weight.regular",
       },
       header : {
