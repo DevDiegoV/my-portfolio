@@ -12,7 +12,7 @@ const Header = () => {
             <HeaderText size={"calc(22px + 2vmin)"} weight={theme.fonts.weight.bold} >
                 Olá!
             </HeaderText >
-            <HeaderText size={"calc(22px + 2vmin)"} weight={theme.fonts.weight.bold} >
+            <HeaderText size={"calc(20px + 2vmin)"} weight={theme.fonts.weight.bold} >
                 Me chamo <MyNameText color={colorMode === "dark" ? theme.colors.dark.secondary : theme.colors.light.secondary}>Diego Vieira</MyNameText>.
             </HeaderText> 
             <MyPhotoContent borderColor={colorMode === "dark" ? theme.colors.dark.primary : theme.colors.light.primary} />
