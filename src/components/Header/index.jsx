@@ -23,8 +23,8 @@ const Header = () => {
                 Desenvolvedor Full Stack
             </HeaderText> 
             <QuickAboutMeText>
-                Possuo capacidade plena em React/React Native e entendimento de NodeJS Express/Django REST com mais de 2 anos de experiência.
-                Técnico em informática e estudante de Análise e Desenvolvimento de Sistemas. Conhecimento em Git Flow, metodologias ágeis e Styled-components para design.
+                Possuo capacidade plena em React/React Native e entendimento de NodeJS Express/Django REST com mais de 4 anos de experiência.
+                Técnico em informática e graduado em Análise e Desenvolvimento de Sistemas. Conhecimento em Git Flow, metodologias ágeis e Styled-components para design.
             </QuickAboutMeText>
         </HeaderContainer>
     )

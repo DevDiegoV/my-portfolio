@@ -45,13 +45,13 @@ const Experience = () => {
                         <HStack>
                             <ArrowForwardIcon boxSize={4}/>
                             <CardText size={"16px"}>
-                                Utilização de React e React Native para Front-end de sites e apps respectivamente.
+                                Utilização de React e React Native para Front-end de sites e apps.
                             </CardText>
                         </HStack>
                         <HStack>
                             <ArrowForwardIcon boxSize={4}/>
                             <CardText size={"16px"}>
-                                Utilização de NodeJS e Django REST para Back-end de sites e apps respectivamente.
+                                Utilização de NodeJS e Django REST para Back-end de sites e apps.
                             </CardText>
                         </HStack>
                         <HStack>
@@ -78,12 +78,6 @@ const Experience = () => {
                                 Deploy para Google Play e APPStore.
                             </CardText>
                         </HStack>
-                        {/* <HStack>
-                            <ArrowForwardIcon boxSize={4}/>
-                            <CardText size={"16px"}>
-                                Possuo código fonte e códigos desenvolvidos dos projetos.
-                            </CardText>
-                        </HStack> */}
                     </VStack>
                 </CardBody>
                 <CardFooter justifyContent={"right"}>
