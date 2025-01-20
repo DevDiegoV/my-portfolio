@@ -74,9 +74,9 @@ const Projects = () => {
                             AGROFAN
                         </CardText>
                         <Link href={"https://play.google.com/store/apps/details?id=br.com.deway.usibras&hl=pt_BR"} target={"_blank"}>
-                            <CardText weight={theme.fonts.weight.light} size={"calc(8px + 1vmin)"} style={{marginTop: 3}}>
+                            {/* <CardText weight={theme.fonts.weight.light} size={"calc(8px + 1vmin)"} style={{marginTop: 3}}>
                                 (Link)
-                            </CardText>
+                            </CardText> */}
                         </Link>
                     </HStack>
                 </CardHeader>
